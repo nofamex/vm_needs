@@ -1,0 +1,860 @@
+===
+pwd
+/home/nofamex/vm_needs/WEEK04/tlpi-dist
+===
+chktoken OS211W04
+nofamex 1503-E8A1
+===
+date
+Tue 30 Mar 2021 09:15:03 PM WIB
+===
+time/calendar_time
+===
+ls -alR
+.:
+total 392
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 .
+drwxr-xr-x  3 nofamex nofamex  4096 Mar 30 21:14 ..
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 acl
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 altio
+-rw-r--r--  1 nofamex nofamex  6776 Mar 18 18:39 BUILDING
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 cap
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 cgroups
+-rw-r--r--  1 nofamex nofamex 63797 Mar 18 18:39 CHANGES
+-rw-r--r--  1 nofamex nofamex 34520 Mar 18 18:39 COPYING.agpl-v3
+-rw-r--r--  1 nofamex nofamex 35147 Mar 18 18:39 COPYING.gpl-v3
+-rw-r--r--  1 nofamex nofamex  7651 Mar 18 18:39 COPYING.lgpl-v3
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 daemons
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 dirs_links
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 filebuff
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 fileio
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 filelock
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 files
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 filesys
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 getopt
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 inotify
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 lib
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 loginacct
+-rw-r--r--  1 nofamex nofamex  1229 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  1348 Mar 18 18:39 Makefile.inc
+-rw-r--r--  1 nofamex nofamex   323 Mar 18 18:39 Makefile.inc.FreeBSD
+-rw-r--r--  1 nofamex nofamex   462 Mar 18 18:39 Makefile.inc.HP-UX
+-rw-r--r--  1 nofamex nofamex   312 Mar 18 18:39 Makefile.inc.MacOSX
+-rw-r--r--  1 nofamex nofamex   415 Mar 18 18:39 Makefile.inc.Solaris
+-rw-r--r--  1 nofamex nofamex   377 Mar 18 18:39 Makefile.inc.Tru64
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 memalloc
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 mmap
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 namespaces
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 pgsjc
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 pipes
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 pmsg
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 proc
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 proccred
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 procexec
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 procpri
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 procres
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 progconc
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 psem
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 pshm
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 pty
+-rw-r--r--  1 nofamex nofamex  5558 Mar 18 18:39 README
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 seccomp
+drwxr-xr-x  4 nofamex nofamex  4096 Mar 18 18:39 shlibs
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 signals
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 sockets
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 svipc
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 svmsg
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 svsem
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 svshm
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 sysinfo
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 syslim
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 threads
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 time
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 timers
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 tty
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 users_groups
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 vdso
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 vmem
+-rw-r--r--  1 nofamex nofamex   164 Mar 30 21:15 WEEK04-TLPI.txt
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 xattr
+
+./acl:
+total 36
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 13896 Mar 18 18:39 acl_update.c
+-rw-r--r--  1 nofamex nofamex  4404 Mar 18 18:39 acl_view.c
+-rw-r--r--  1 nofamex nofamex   360 Mar 18 18:39 Makefile
+
+./altio:
+total 56
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2817 Mar 18 18:39 demo_sigio.c
+-rw-r--r--  1 nofamex nofamex 7341 Mar 18 18:39 epoll_flags_fork.c
+-rw-r--r--  1 nofamex nofamex 4022 Mar 18 18:39 epoll_input.c
+-rw-r--r--  1 nofamex nofamex  465 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3521 Mar 18 18:39 multithread_epoll_wait.c
+-rw-r--r--  1 nofamex nofamex 3074 Mar 18 18:39 poll_pipes.c
+-rw-r--r--  1 nofamex nofamex 4932 Mar 18 18:39 select_mq.c
+-rw-r--r--  1 nofamex nofamex 4984 Mar 18 18:39 self_pipe.c
+-rw-r--r--  1 nofamex nofamex 3264 Mar 18 18:39 t_select.c
+
+./cap:
+total 68
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3543 Mar 18 18:39 cap_functions.c
+-rw-r--r--  1 nofamex nofamex 1463 Mar 18 18:39 cap_functions.h
+-rw-r--r--  1 nofamex nofamex 5111 Mar 18 18:39 cap_launcher.c
+-rw-r--r--  1 nofamex nofamex 7033 Mar 18 18:39 cap_text.c
+-rw-r--r--  1 nofamex nofamex 5237 Mar 18 18:39 check_password_caps.c
+-rw-r--r--  1 nofamex nofamex 2031 Mar 18 18:39 demo_file_caps.c
+-rw-r--r--  1 nofamex nofamex  615 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1099 Mar 18 18:39 show_secbits.c
+-rw-r--r--  1 nofamex nofamex 1679 Mar 18 18:39 t_cap_get_file.c
+-rw-r--r--  1 nofamex nofamex 1518 Mar 18 18:39 t_cap_get_pid.c
+-rw-r--r--  1 nofamex nofamex 1520 Mar 18 18:39 t_cap_set_file.c
+-rw-r--r--  1 nofamex nofamex 2515 Mar 18 18:39 view_cap_xattr.c
+
+./cgroups:
+total 48
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  4662 Mar 18 18:39 alloc_mem.c
+-rw-r--r--  1 nofamex nofamex  2865 Mar 18 18:39 fork_bomb.c
+-rw-r--r--  1 nofamex nofamex   329 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  1435 Mar 18 18:39 move_RT_tasks_to_cgroup_root.sh
+-rwxr-xr-x  1 nofamex nofamex  1353 Mar 18 18:39 remove_cgroup_hier.sh
+-rw-r--r--  1 nofamex nofamex 13887 Mar 18 18:39 view_v2_cgroups.go
+
+./daemons:
+total 36
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2478 Mar 18 18:39 become_daemon.c
+-rw-r--r--  1 nofamex nofamex 1437 Mar 18 18:39 become_daemon.h
+-rw-r--r--  1 nofamex nofamex 4793 Mar 18 18:39 daemon_SIGHUP.c
+-rw-r--r--  1 nofamex nofamex  252 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1072 Mar 18 18:39 test_become_daemon.c
+-rw-r--r--  1 nofamex nofamex 2572 Mar 18 18:39 t_syslog.c
+
+./dirs_links:
+total 44
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1612 Mar 18 18:39 bad_symlink.c
+-rw-r--r--  1 nofamex nofamex 3094 Mar 18 18:39 file_type_stats.c
+-rw-r--r--  1 nofamex nofamex 2455 Mar 18 18:39 list_files.c
+-rw-r--r--  1 nofamex nofamex 3079 Mar 18 18:39 list_files_readdir_r.c
+-rw-r--r--  1 nofamex nofamex  337 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3752 Mar 18 18:39 nftw_dir_tree.c
+-rw-r--r--  1 nofamex nofamex 1437 Mar 18 18:39 t_dirbasename.c
+-rw-r--r--  1 nofamex nofamex 2878 Mar 18 18:39 t_unlink.c
+-rw-r--r--  1 nofamex nofamex 1894 Mar 18 18:39 view_symlink.c
+
+./filebuff:
+total 28
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2511 Mar 18 18:39 direct_read.c
+-rw-r--r--  1 nofamex nofamex  661 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1286 Mar 18 18:39 mix23io.c
+-rw-r--r--  1 nofamex nofamex 1253 Mar 18 18:39 mix23_linebuff.c
+-rw-r--r--  1 nofamex nofamex 2569 Mar 18 18:39 write_bytes.c
+
+./fileio:
+total 44
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2451 Mar 18 18:39 atomic_append.c
+-rw-r--r--  1 nofamex nofamex 2689 Mar 18 18:39 bad_exclusive_open.c
+-rw-r--r--  1 nofamex nofamex 2070 Mar 18 18:39 copy.c
+-rw-r--r--  1 nofamex nofamex 1380 Mar 18 18:39 large_file.c
+-rw-r--r--  1 nofamex nofamex  321 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2081 Mar 18 18:39 multi_descriptors.c
+-rw-r--r--  1 nofamex nofamex 3814 Mar 18 18:39 seek_io.c
+-rw-r--r--  1 nofamex nofamex 2188 Mar 18 18:39 t_readv.c
+-rw-r--r--  1 nofamex nofamex 1166 Mar 18 18:39 t_truncate.c
+
+./filelock:
+total 40
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3445 Mar 18 18:39 create_pid_file.c
+-rw-r--r--  1 nofamex nofamex  985 Mar 18 18:39 create_pid_file.h
+-rw-r--r--  1 nofamex nofamex 8018 Mar 18 18:39 i_fcntl_locking.c
+-rw-r--r--  1 nofamex nofamex  234 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2010 Mar 18 18:39 region_locking.c
+-rw-r--r--  1 nofamex nofamex 1075 Mar 18 18:39 region_locking.h
+-rw-r--r--  1 nofamex nofamex 2302 Mar 18 18:39 t_flock.c
+
+./files:
+total 52
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 4278 Mar 18 18:39 chiflag.c
+-rw-r--r--  1 nofamex nofamex 2233 Mar 18 18:39 file_perms.c
+-rw-r--r--  1 nofamex nofamex 1031 Mar 18 18:39 file_perms.h
+-rw-r--r--  1 nofamex nofamex  271 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2354 Mar 18 18:39 t_chown.c
+-rw-r--r--  1 nofamex nofamex 4180 Mar 18 18:39 t_stat.c
+-rw-r--r--  1 nofamex nofamex 2183 Mar 18 18:39 t_umask.c
+-rw-r--r--  1 nofamex nofamex 1563 Mar 18 18:39 t_utime.c
+-rw-r--r--  1 nofamex nofamex 1706 Mar 18 18:39 t_utimes.c
+
+./filesys:
+total 32
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  260 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 5982 Mar 18 18:39 t_mount.c
+-rw-r--r--  1 nofamex nofamex 2073 Mar 18 18:39 t_statfs.c
+-rw-r--r--  1 nofamex nofamex 2059 Mar 18 18:39 t_statvfs.c
+-rw-r--r--  1 nofamex nofamex 1159 Mar 18 18:39 t_umount.c
+
+./getopt:
+total 16
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  233 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2441 Mar 18 18:39 t_getopt.c
+
+./inotify:
+total 80
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  3867 Mar 18 18:39 demo_inotify.c
+-rw-r--r--  1 nofamex nofamex  4253 Mar 18 18:39 dnotify.c
+-rw-r--r--  1 nofamex nofamex 46969 Mar 18 18:39 inotify_dtree.c
+-rw-r--r--  1 nofamex nofamex   290 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  6937 Mar 18 18:39 rand_dtree.c
+
+./lib:
+total 56
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1780 Mar 18 18:39 alt_functions.c
+-rw-r--r--  1 nofamex nofamex 1333 Mar 18 18:39 alt_functions.h
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 become_daemon.c -> ../daemons/become_daemon.c
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 become_daemon.h -> ../daemons/become_daemon.h
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 binary_sems.c -> ../svsem/binary_sems.c
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 binary_sems.h -> ../svsem/binary_sems.h
+-rw-r--r--  1 nofamex nofamex 1356 Mar 18 18:39 Build_ename.sh
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 cap_functions.c -> ../cap/cap_functions.c
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 cap_functions.h -> ../cap/cap_functions.h
+lrwxrwxrwx  1 nofamex nofamex   29 Jul  4  2019 create_pid_file.c -> ../filelock/create_pid_file.c
+lrwxrwxrwx  1 nofamex nofamex   29 Jul  4  2019 create_pid_file.h -> ../filelock/create_pid_file.h
+lrwxrwxrwx  1 nofamex nofamex   19 Jul  4  2019 curr_time.c -> ../time/curr_time.c
+lrwxrwxrwx  1 nofamex nofamex   19 Jul  4  2019 curr_time.h -> ../time/curr_time.h
+-rw-r--r--  1 nofamex nofamex 5750 Mar 18 18:39 error_functions.c
+-rw-r--r--  1 nofamex nofamex 1513 Mar 18 18:39 error_functions.h
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 event_flags.c -> ../svsem/event_flags.c
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 event_flags.h -> ../svsem/event_flags.h
+lrwxrwxrwx  1 nofamex nofamex   21 Jul  4  2019 file_perms.c -> ../files/file_perms.c
+lrwxrwxrwx  1 nofamex nofamex   21 Jul  4  2019 file_perms.h -> ../files/file_perms.h
+-rw-r--r--  1 nofamex nofamex 3434 Mar 18 18:39 get_num.c
+-rw-r--r--  1 nofamex nofamex 1311 Mar 18 18:39 get_num.h
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 inet_sockets.c -> ../sockets/inet_sockets.c
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 inet_sockets.h -> ../sockets/inet_sockets.h
+lrwxrwxrwx  1 nofamex nofamex   31 Jul  4  2019 itimerspec_from_str.c -> ../timers/itimerspec_from_str.c
+lrwxrwxrwx  1 nofamex nofamex   31 Jul  4  2019 itimerspec_from_str.h -> ../timers/itimerspec_from_str.h
+-rw-r--r--  1 nofamex nofamex  636 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  608 Mar 18 18:39 Makefile.std
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 print_rlimit.c -> ../procres/print_rlimit.c
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 print_rlimit.h -> ../procres/print_rlimit.h
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 print_rusage.c -> ../procres/print_rusage.c
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 print_rusage.h -> ../procres/print_rusage.h
+lrwxrwxrwx  1 nofamex nofamex   31 Jul  4  2019 print_wait_status.c -> ../procexec/print_wait_status.c
+lrwxrwxrwx  1 nofamex nofamex   31 Jul  4  2019 print_wait_status.h -> ../procexec/print_wait_status.h
+lrwxrwxrwx  1 nofamex nofamex   17 Jul  4  2019 pty_fork.c -> ../pty/pty_fork.c
+lrwxrwxrwx  1 nofamex nofamex   17 Jul  4  2019 pty_fork.h -> ../pty/pty_fork.h
+lrwxrwxrwx  1 nofamex nofamex   24 Jul  4  2019 pty_master_open.c -> ../pty/pty_master_open.c
+lrwxrwxrwx  1 nofamex nofamex   24 Jul  4  2019 pty_master_open.h -> ../pty/pty_master_open.h
+lrwxrwxrwx  1 nofamex nofamex   18 Jul  4  2019 rdwrn.c -> ../sockets/rdwrn.c
+lrwxrwxrwx  1 nofamex nofamex   18 Jul  4  2019 rdwrn.h -> ../sockets/rdwrn.h
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 read_line_buf.c -> ../sockets/read_line_buf.c
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 read_line_buf.h -> ../sockets/read_line_buf.h
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 read_line.c -> ../sockets/read_line.c
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 read_line.h -> ../sockets/read_line.h
+-rw-r--r--  1 nofamex nofamex  475 Mar 18 18:39 README
+lrwxrwxrwx  1 nofamex nofamex   28 Jul  4  2019 region_locking.c -> ../filelock/region_locking.c
+lrwxrwxrwx  1 nofamex nofamex   28 Jul  4  2019 region_locking.h -> ../filelock/region_locking.h
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 scm_functions.c -> ../sockets/scm_functions.c
+lrwxrwxrwx  1 nofamex nofamex   26 Jul  4  2019 scm_functions.h -> ../sockets/scm_functions.h
+lrwxrwxrwx  1 nofamex nofamex   16 Jul  4  2019 semun.h -> ../svsem/semun.h
+lrwxrwxrwx  1 nofamex nofamex   19 Jul  4  2019 signal.c -> ../signals/signal.c
+lrwxrwxrwx  1 nofamex nofamex   29 Jul  4  2019 signal_functions.c -> ../signals/signal_functions.c
+lrwxrwxrwx  1 nofamex nofamex   29 Jul  4  2019 signal_functions.h -> ../signals/signal_functions.h
+-rw-r--r--  1 nofamex nofamex 2696 Mar 18 18:39 tlpi_hdr.h
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 tty_functions.c -> ../tty/tty_functions.c
+lrwxrwxrwx  1 nofamex nofamex   22 Jul  4  2019 tty_functions.h -> ../tty/tty_functions.h
+lrwxrwxrwx  1 nofamex nofamex   32 Jul  4  2019 ugid_functions.c -> ../users_groups/ugid_functions.c
+lrwxrwxrwx  1 nofamex nofamex   32 Jul  4  2019 ugid_functions.h -> ../users_groups/ugid_functions.h
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 unix_sockets.c -> ../sockets/unix_sockets.c
+lrwxrwxrwx  1 nofamex nofamex   25 Jul  4  2019 unix_sockets.h -> ../sockets/unix_sockets.h
+lrwxrwxrwx  1 nofamex nofamex   32 Jul  4  2019 userns_functions.c -> ../namespaces/userns_functions.c
+lrwxrwxrwx  1 nofamex nofamex   32 Jul  4  2019 userns_functions.h -> ../namespaces/userns_functions.h
+
+./loginacct:
+total 24
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2836 Mar 18 18:39 dump_utmpx.c
+-rw-r--r--  1 nofamex nofamex  261 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3596 Mar 18 18:39 utmpx_login.c
+-rw-r--r--  1 nofamex nofamex 1997 Mar 18 18:39 view_lastlog.c
+
+./memalloc:
+total 16
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2487 Mar 18 18:39 free_and_sbrk.c
+-rw-r--r--  1 nofamex nofamex  237 Mar 18 18:39 Makefile
+
+./mmap:
+total 32
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2628 Mar 18 18:39 anon_mmap.c
+-rw-r--r--  1 nofamex nofamex  272 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1803 Mar 18 18:39 mmcat.c
+-rw-r--r--  1 nofamex nofamex 2165 Mar 18 18:39 mmcopy.c
+-rw-r--r--  1 nofamex nofamex 1919 Mar 18 18:39 t_mmap.c
+-rw-r--r--  1 nofamex nofamex 2476 Mar 18 18:39 t_remap_file_pages.c
+
+./namespaces:
+total 184
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  2635 Mar 18 18:39 cred_launcher.c
+-rw-r--r--  1 nofamex nofamex  2590 Mar 18 18:39 demo_userns.c
+-rw-r--r--  1 nofamex nofamex  3280 Mar 18 18:39 demo_uts_namespaces.c
+-rw-r--r--  1 nofamex nofamex  1425 Mar 18 18:39 hostname.c
+-rw-r--r--  1 nofamex nofamex   631 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  3481 Mar 18 18:39 multi_pidns.c
+-rw-r--r--  1 nofamex nofamex 33139 Mar 18 18:39 namespaces_of.go
+-rw-r--r--  1 nofamex nofamex 10579 Mar 18 18:39 ns_capable.c
+-rw-r--r--  1 nofamex nofamex  4106 Mar 18 18:39 ns_child_exec.c
+-rw-r--r--  1 nofamex nofamex  3374 Mar 18 18:39 ns_exec.c
+-rw-r--r--  1 nofamex nofamex  3467 Mar 18 18:39 ns_run.c
+-rw-r--r--  1 nofamex nofamex  2143 Mar 18 18:39 orphan.c
+-rw-r--r--  1 nofamex nofamex  7112 Mar 18 18:39 pid_namespaces.go
+-rw-r--r--  1 nofamex nofamex  2635 Mar 18 18:39 pidns_init_sleep.c
+-rw-r--r--  1 nofamex nofamex  1542 Mar 18 18:39 show_creds.c
+-rw-r--r--  1 nofamex nofamex  8438 Mar 18 18:39 simple_init.c
+-rw-r--r--  1 nofamex nofamex  1666 Mar 18 18:39 t_setns_userns.c
+-rw-r--r--  1 nofamex nofamex  3706 Mar 18 18:39 unshare.c
+-rw-r--r--  1 nofamex nofamex 20972 Mar 18 18:39 userns_child_exec.c
+-rw-r--r--  1 nofamex nofamex  4995 Mar 18 18:39 userns_functions.c
+-rw-r--r--  1 nofamex nofamex  1091 Mar 18 18:39 userns_functions.h
+-rw-r--r--  1 nofamex nofamex  6059 Mar 18 18:39 userns_overview.go
+-rw-r--r--  1 nofamex nofamex  3886 Mar 18 18:39 userns_setns_test.c
+
+./pgsjc:
+total 36
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1946 Mar 18 18:39 catch_SIGHUP.c
+-rw-r--r--  1 nofamex nofamex 2885 Mar 18 18:39 disc_SIGHUP.c
+-rw-r--r--  1 nofamex nofamex 2692 Mar 18 18:39 handling_SIGTSTP.c
+-rw-r--r--  1 nofamex nofamex 3875 Mar 18 18:39 job_mon.c
+-rw-r--r--  1 nofamex nofamex  293 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3708 Mar 18 18:39 orphaned_pgrp_SIGHUP.c
+-rw-r--r--  1 nofamex nofamex 1400 Mar 18 18:39 t_setsid.c
+
+./pipes:
+total 44
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3371 Mar 18 18:39 change_case.c
+-rw-r--r--  1 nofamex nofamex 2912 Mar 18 18:39 fifo_seqnum_client.c
+-rw-r--r--  1 nofamex nofamex 2178 Mar 18 18:39 fifo_seqnum.h
+-rw-r--r--  1 nofamex nofamex 3582 Mar 18 18:39 fifo_seqnum_server.c
+-rw-r--r--  1 nofamex nofamex  367 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2985 Mar 18 18:39 pipe_ls_wc.c
+-rw-r--r--  1 nofamex nofamex 3199 Mar 18 18:39 pipe_sync.c
+-rw-r--r--  1 nofamex nofamex 3505 Mar 18 18:39 popen_glob.c
+-rw-r--r--  1 nofamex nofamex 2793 Mar 18 18:39 simple_pipe.c
+
+./pmsg:
+total 56
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  507 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3235 Mar 18 18:39 mq_notify_sig.c
+-rw-r--r--  1 nofamex nofamex 3335 Mar 18 18:39 mq_notify_siginfo.c
+-rw-r--r--  1 nofamex nofamex 4087 Mar 18 18:39 mq_notify_sigwaitinfo.c
+-rw-r--r--  1 nofamex nofamex 2964 Mar 18 18:39 mq_notify_thread.c
+-rw-r--r--  1 nofamex nofamex 3384 Mar 18 18:39 mq_notify_via_signal.c
+-rw-r--r--  1 nofamex nofamex 2938 Mar 18 18:39 mq_notify_via_thread.c
+-rw-r--r--  1 nofamex nofamex 2871 Mar 18 18:39 pmsg_create.c
+-rw-r--r--  1 nofamex nofamex 1456 Mar 18 18:39 pmsg_getattr.c
+-rw-r--r--  1 nofamex nofamex 2449 Mar 18 18:39 pmsg_receive.c
+-rw-r--r--  1 nofamex nofamex 1904 Mar 18 18:39 pmsg_send.c
+-rw-r--r--  1 nofamex nofamex 1115 Mar 18 18:39 pmsg_unlink.c
+
+./proc:
+total 48
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1893 Mar 18 18:39 bad_longjmp.c
+-rw-r--r--  1 nofamex nofamex 1022 Mar 18 18:39 display_env.c
+-rw-r--r--  1 nofamex nofamex 1634 Mar 18 18:39 longjmp.c
+-rw-r--r--  1 nofamex nofamex  317 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2010 Mar 18 18:39 mem_segments.c
+-rw-r--r--  1 nofamex nofamex 1694 Mar 18 18:39 modify_env.c
+-rw-r--r--  1 nofamex nofamex  959 Mar 18 18:39 necho.c
+-rw-r--r--  1 nofamex nofamex 2930 Mar 18 18:39 setenv.c
+-rw-r--r--  1 nofamex nofamex 1927 Mar 18 18:39 setjmp_vars.c
+-rw-r--r--  1 nofamex nofamex 1125 Mar 18 18:39 t_getenv.c
+
+./proccred:
+total 16
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2908 Mar 18 18:39 idshow.c
+-rw-r--r--  1 nofamex nofamex  230 Mar 18 18:39 Makefile
+
+./procexec:
+total 168
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  1161 Mar 18 18:39 acct_on.c
+-rw-r--r--  1 nofamex nofamex  4447 Mar 18 18:39 acct_v3_view.c
+-rw-r--r--  1 nofamex nofamex  3696 Mar 18 18:39 acct_view.c
+-rw-r--r--  1 nofamex nofamex  3025 Mar 18 18:39 child_status.c
+-rw-r--r--  1 nofamex nofamex  1347 Mar 18 18:39 closeonexec.c
+-rw-r--r--  1 nofamex nofamex  6837 Mar 18 18:39 demo_clone.c
+-rw-r--r--  1 nofamex nofamex  1128 Mar 18 18:39 envargs.c
+-rw-r--r--  1 nofamex nofamex  6499 Mar 18 18:39 execlp.c
+-rw-r--r--  1 nofamex nofamex  1931 Mar 18 18:39 exit_handlers.c
+-rw-r--r--  1 nofamex nofamex  2385 Mar 18 18:39 footprint.c
+-rw-r--r--  1 nofamex nofamex  2673 Mar 18 18:39 fork_file_sharing.c
+-rw-r--r--  1 nofamex nofamex  3027 Mar 18 18:39 fork_sig_sync.c
+-rw-r--r--  1 nofamex nofamex  1034 Mar 18 18:39 fork_stdio_buf.c
+-rw-r--r--  1 nofamex nofamex  1953 Mar 18 18:39 fork_whos_on_first.c
+-rwxr-xr-x  1 nofamex nofamex   776 Mar 18 18:39 fork_whos_on_first.count.awk
+-rwxr-xr-x  1 nofamex nofamex    74 Mar 18 18:39 longest_line.awk
+-rw-r--r--  1 nofamex nofamex   662 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  2142 Mar 18 18:39 make_zombie.c
+-rw-r--r--  1 nofamex nofamex  3776 Mar 18 18:39 multi_SIGCHLD.c
+-rw-r--r--  1 nofamex nofamex  2793 Mar 18 18:39 multi_wait.c
+-rw-r--r--  1 nofamex nofamex  1880 Mar 18 18:39 orphan.c
+-rw-r--r--  1 nofamex nofamex 11260 Mar 18 18:39 pdeath_signal.c
+-rw-r--r--  1 nofamex nofamex  2384 Mar 18 18:39 print_wait_status.c
+-rw-r--r--  1 nofamex nofamex   950 Mar 18 18:39 print_wait_status.h
+-rw-r--r--  1 nofamex nofamex  1326 Mar 18 18:39 simple_system.c
+-rw-r--r--  1 nofamex nofamex  3567 Mar 18 18:39 system.c
+-rw-r--r--  1 nofamex nofamex  3194 Mar 18 18:39 t_clone.c
+-rw-r--r--  1 nofamex nofamex  1206 Mar 18 18:39 t_execl.c
+-rw-r--r--  1 nofamex nofamex  1385 Mar 18 18:39 t_execle.c
+-rw-r--r--  1 nofamex nofamex  1121 Mar 18 18:39 t_execlp.c
+-rw-r--r--  1 nofamex nofamex  1564 Mar 18 18:39 t_execve.c
+-rw-r--r--  1 nofamex nofamex  1506 Mar 18 18:39 t_fork.c
+-rw-r--r--  1 nofamex nofamex  1818 Mar 18 18:39 t_system.c
+-rw-r--r--  1 nofamex nofamex  1633 Mar 18 18:39 t_vfork.c
+-rw-r--r--  1 nofamex nofamex  1556 Mar 18 18:39 vfork_fd_test.c
+
+./procpri:
+total 36
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3723 Mar 18 18:39 demo_sched_fifo.c
+-rw-r--r--  1 nofamex nofamex  362 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2475 Mar 18 18:39 sched_set.c
+-rw-r--r--  1 nofamex nofamex 1741 Mar 18 18:39 sched_view.c
+-rw-r--r--  1 nofamex nofamex 1624 Mar 18 18:39 t_sched_getaffinity.c
+-rw-r--r--  1 nofamex nofamex 1826 Mar 18 18:39 t_sched_setaffinity.c
+-rw-r--r--  1 nofamex nofamex 1871 Mar 18 18:39 t_setpriority.c
+
+./procres:
+total 40
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  255 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1772 Mar 18 18:39 print_rlimit.c
+-rw-r--r--  1 nofamex nofamex  928 Mar 18 18:39 print_rlimit.h
+-rw-r--r--  1 nofamex nofamex 2156 Mar 18 18:39 print_rusage.c
+-rw-r--r--  1 nofamex nofamex  970 Mar 18 18:39 print_rusage.h
+-rw-r--r--  1 nofamex nofamex 2260 Mar 18 18:39 rlimit_nproc.c
+-rw-r--r--  1 nofamex nofamex 1604 Mar 18 18:39 rusage.c
+-rw-r--r--  1 nofamex nofamex 2997 Mar 18 18:39 rusage_wait.c
+
+./progconc:
+total 16
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  237 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1605 Mar 18 18:39 syscall_speed.c
+
+./psem:
+total 44
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  635 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2162 Mar 18 18:39 psem_create.c
+-rw-r--r--  1 nofamex nofamex 1305 Mar 18 18:39 psem_getvalue.c
+-rw-r--r--  1 nofamex nofamex 1270 Mar 18 18:39 psem_post.c
+-rw-r--r--  1 nofamex nofamex 1854 Mar 18 18:39 psem_timedwait.c
+-rw-r--r--  1 nofamex nofamex 1366 Mar 18 18:39 psem_trywait.c
+-rw-r--r--  1 nofamex nofamex 1167 Mar 18 18:39 psem_unlink.c
+-rw-r--r--  1 nofamex nofamex 1363 Mar 18 18:39 psem_wait.c
+-rw-r--r--  1 nofamex nofamex 2202 Mar 18 18:39 thread_incr_psem.c
+
+./pshm:
+total 28
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  388 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2231 Mar 18 18:39 pshm_create.c
+-rw-r--r--  1 nofamex nofamex 1731 Mar 18 18:39 pshm_read.c
+-rw-r--r--  1 nofamex nofamex 1109 Mar 18 18:39 pshm_unlink.c
+-rw-r--r--  1 nofamex nofamex 1982 Mar 18 18:39 pshm_write.c
+
+./pty:
+total 48
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  240 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 4387 Mar 18 18:39 pty_fork.c
+-rw-r--r--  1 nofamex nofamex 1021 Mar 18 18:39 pty_fork.h
+-rw-r--r--  1 nofamex nofamex 3003 Mar 18 18:39 pty_master_open_bsd.c
+-rw-r--r--  1 nofamex nofamex 2873 Mar 18 18:39 pty_master_open.c
+-rw-r--r--  1 nofamex nofamex  933 Mar 18 18:39 pty_master_open.h
+-rw-r--r--  1 nofamex nofamex 4388 Mar 18 18:39 script.c
+-rw-r--r--  1 nofamex nofamex 3925 Mar 18 18:39 unbuffer.c
+
+./seccomp:
+total 104
+drwxr-xr-x  2 nofamex nofamex  4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex  4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  4516 Mar 18 18:39 dump_seccomp_filter.c
+-rw-r--r--  1 nofamex nofamex  1972 Mar 18 18:39 libseccomp_demo.c
+-rw-r--r--  1 nofamex nofamex   913 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  5455 Mar 18 18:39 seccomp_arg64.c
+-rw-r--r--  1 nofamex nofamex  4611 Mar 18 18:39 seccomp_control_open.c
+-rw-r--r--  1 nofamex nofamex  3407 Mar 18 18:39 seccomp_deny_open.c
+-rw-r--r--  1 nofamex nofamex  3502 Mar 18 18:39 seccomp_launch.c
+-rw-r--r--  1 nofamex nofamex  3112 Mar 18 18:39 seccomp_logging.c
+-rw-r--r--  1 nofamex nofamex 13257 Mar 18 18:39 seccomp_multiarch.c
+-rw-r--r--  1 nofamex nofamex  3722 Mar 18 18:39 seccomp_perf.c
+-rw-r--r--  1 nofamex nofamex  3564 Mar 18 18:39 seccomp_trap_sigsys.c
+-rw-r--r--  1 nofamex nofamex 24591 Mar 18 18:39 seccomp_unotify_mkdir.c
+
+./shlibs:
+total 52
+drwxr-xr-x  4 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 demo_Bsymbolic
+-rw-r--r--  1 nofamex nofamex  140 Mar 18 18:39 Demo_no_lib.sh
+-rw-r--r--  1 nofamex nofamex  693 Mar 18 18:39 Demo_shared_lib.sh
+-rw-r--r--  1 nofamex nofamex  204 Mar 18 18:39 Demo_static_lib.sh
+-rw-r--r--  1 nofamex nofamex 3176 Mar 18 18:39 dynload.c
+-rw-r--r--  1 nofamex nofamex  295 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex  877 Mar 18 18:39 mod1.c
+-rw-r--r--  1 nofamex nofamex  877 Mar 18 18:39 mod2.c
+-rw-r--r--  1 nofamex nofamex  876 Mar 18 18:39 mod3.c
+-rw-r--r--  1 nofamex nofamex  851 Mar 18 18:39 prog.c
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 version_scripts
+
+./shlibs/demo_Bsymbolic:
+total 28
+drwxr-xr-x 2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 4 nofamex nofamex 4096 Mar 18 18:39 ..
+-rw-r--r-- 1 nofamex nofamex  923 Mar 18 18:39 foo1.c
+-rw-r--r-- 1 nofamex nofamex  923 Mar 18 18:39 foo2.c
+-rw-r--r-- 1 nofamex nofamex  885 Mar 18 18:39 foo3.c
+-rw-r--r-- 1 nofamex nofamex  452 Mar 18 18:39 Makefile
+-rw-r--r-- 1 nofamex nofamex  929 Mar 18 18:39 prog.c
+
+./shlibs/version_scripts:
+total 52
+drwxr-xr-x 2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 4 nofamex nofamex 4096 Mar 18 18:39 ..
+-rw-r--r-- 1 nofamex nofamex  458 Mar 18 18:39 sv_build.sh
+-rw-r--r-- 1 nofamex nofamex  763 Mar 18 18:39 sv_lib_v1.c
+-rw-r--r-- 1 nofamex nofamex  930 Mar 18 18:39 sv_lib_v2.c
+-rw-r--r-- 1 nofamex nofamex  817 Mar 18 18:39 sv_prog.c
+-rw-r--r-- 1 nofamex nofamex   70 Mar 18 18:39 sv_v1.map
+-rw-r--r-- 1 nofamex nofamex  102 Mar 18 18:39 sv_v2.map
+-rw-r--r-- 1 nofamex nofamex  631 Mar 18 18:39 vis_build.sh
+-rw-r--r-- 1 nofamex nofamex  810 Mar 18 18:39 vis_comm.c
+-rw-r--r-- 1 nofamex nofamex  777 Mar 18 18:39 vis_f1.c
+-rw-r--r-- 1 nofamex nofamex  787 Mar 18 18:39 vis_f2.c
+-rw-r--r-- 1 nofamex nofamex   63 Mar 18 18:39 vis.map
+
+./signals:
+total 100
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 4336 Mar 18 18:39 catch_rtsigs.c
+-rw-r--r--  1 nofamex nofamex 3172 Mar 18 18:39 demo_SIGFPE.c
+-rw-r--r--  1 nofamex nofamex 3227 Mar 18 18:39 ignore_pending_sig.c
+-rw-r--r--  1 nofamex nofamex 2136 Mar 18 18:39 intquit.c
+-rw-r--r--  1 nofamex nofamex 1465 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2321 Mar 18 18:39 nonreentrant.c
+-rw-r--r--  1 nofamex nofamex 1639 Mar 18 18:39 ouch.c
+-rw-r--r--  1 nofamex nofamex 1145 Mar 18 18:39 siginterrupt.c
+-rw-r--r--  1 nofamex nofamex 2674 Mar 18 18:39 sigmask_longjmp.c
+-rw-r--r--  1 nofamex nofamex 1965 Mar 18 18:39 signal.c
+-rw-r--r--  1 nofamex nofamex 1952 Mar 18 18:39 signalfd_sigval.c
+-rw-r--r--  1 nofamex nofamex 2284 Mar 18 18:39 signal_functions.c
+-rw-r--r--  1 nofamex nofamex 1055 Mar 18 18:39 signal_functions.h
+-rw-r--r--  1 nofamex nofamex 3159 Mar 18 18:39 sig_receiver.c
+-rw-r--r--  1 nofamex nofamex 1879 Mar 18 18:39 sig_sender.c
+-rw-r--r--  1 nofamex nofamex 3092 Mar 18 18:39 sig_speed_sigsuspend.c
+-rw-r--r--  1 nofamex nofamex 1668 Mar 18 18:39 t_kill.c
+-rw-r--r--  1 nofamex nofamex 2789 Mar 18 18:39 t_sigaltstack.c
+-rw-r--r--  1 nofamex nofamex 1931 Mar 18 18:39 t_sigqueue.c
+-rw-r--r--  1 nofamex nofamex 5336 Mar 18 18:39 t_sigsuspend.c
+-rw-r--r--  1 nofamex nofamex 2332 Mar 18 18:39 t_sigwaitinfo.c
+
+./sockets:
+total 264
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2136 Mar 18 18:39 i6d_ucase_cl.c
+-rw-r--r--  1 nofamex nofamex 1107 Mar 18 18:39 i6d_ucase.h
+-rw-r--r--  1 nofamex nofamex 2598 Mar 18 18:39 i6d_ucase_sv.c
+-rw-r--r--  1 nofamex nofamex 1899 Mar 18 18:39 id_echo_cl.c
+-rw-r--r--  1 nofamex nofamex 1059 Mar 18 18:39 id_echo.h
+-rw-r--r--  1 nofamex nofamex 2360 Mar 18 18:39 id_echo_sv.c
+-rw-r--r--  1 nofamex nofamex 6410 Mar 18 18:39 inet_sockets.c
+-rw-r--r--  1 nofamex nofamex 1477 Mar 18 18:39 inet_sockets.h
+-rw-r--r--  1 nofamex nofamex 3128 Mar 18 18:39 is_echo_cl.c
+-rw-r--r--  1 nofamex nofamex 1379 Mar 18 18:39 is_echo_inetd_sv.c
+-rw-r--r--  1 nofamex nofamex 3816 Mar 18 18:39 is_echo_sv.c
+-rw-r--r--  1 nofamex nofamex 4504 Mar 18 18:39 is_echo_v2_sv.c
+-rw-r--r--  1 nofamex nofamex 3142 Mar 18 18:39 is_seqnum_cl.c
+-rw-r--r--  1 nofamex nofamex 1141 Mar 18 18:39 is_seqnum.h
+-rw-r--r--  1 nofamex nofamex 4878 Mar 18 18:39 is_seqnum_sv.c
+-rw-r--r--  1 nofamex nofamex 2106 Mar 18 18:39 is_seqnum_v2_cl.c
+-rw-r--r--  1 nofamex nofamex 1234 Mar 18 18:39 is_seqnum_v2.h
+-rw-r--r--  1 nofamex nofamex 3294 Mar 18 18:39 is_seqnum_v2_sv.c
+-rw-r--r--  1 nofamex nofamex 2174 Mar 18 18:39 list_host_addresses.c
+-rw-r--r--  1 nofamex nofamex 1112 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2947 Mar 18 18:39 rdwrn.c
+-rw-r--r--  1 nofamex nofamex  929 Mar 18 18:39 rdwrn.h
+-rw-r--r--  1 nofamex nofamex 2256 Mar 18 18:39 read_line_buf.c
+-rw-r--r--  1 nofamex nofamex 1442 Mar 18 18:39 read_line_buf.h
+-rw-r--r--  1 nofamex nofamex 2602 Mar 18 18:39 read_line.c
+-rw-r--r--  1 nofamex nofamex  895 Mar 18 18:39 read_line.h
+-rw-r--r--  1 nofamex nofamex  582 Mar 18 18:39 README
+-rw-r--r--  1 nofamex nofamex 1098 Mar 18 18:39 scm_cred.h
+-rw-r--r--  1 nofamex nofamex 5642 Mar 18 18:39 scm_cred_recv.c
+-rw-r--r--  1 nofamex nofamex 5745 Mar 18 18:39 scm_cred_send.c
+-rw-r--r--  1 nofamex nofamex 4951 Mar 18 18:39 scm_functions.c
+-rw-r--r--  1 nofamex nofamex 1028 Mar 18 18:39 scm_functions.h
+-rw-r--r--  1 nofamex nofamex 1295 Mar 18 18:39 scm_multi.h
+-rw-r--r--  1 nofamex nofamex 8121 Mar 18 18:39 scm_multi_recv.c
+-rw-r--r--  1 nofamex nofamex 6910 Mar 18 18:39 scm_multi_send.c
+-rw-r--r--  1 nofamex nofamex 1006 Mar 18 18:39 scm_rights.h
+-rw-r--r--  1 nofamex nofamex 5184 Mar 18 18:39 scm_rights_recv.c
+-rw-r--r--  1 nofamex nofamex 4538 Mar 18 18:39 scm_rights_send.c
+-rw-r--r--  1 nofamex nofamex 2174 Mar 18 18:39 sendfile.c
+-rw-r--r--  1 nofamex nofamex 2594 Mar 18 18:39 socknames.c
+-rw-r--r--  1 nofamex nofamex 2275 Mar 18 18:39 t_gethostbyname.c
+-rw-r--r--  1 nofamex nofamex 1597 Mar 18 18:39 t_getservbyname.c
+-rw-r--r--  1 nofamex nofamex 2648 Mar 18 18:39 ud_ucase_cl.c
+-rw-r--r--  1 nofamex nofamex 1563 Mar 18 18:39 ud_ucase.h
+-rw-r--r--  1 nofamex nofamex 2619 Mar 18 18:39 ud_ucase_sv.c
+-rw-r--r--  1 nofamex nofamex 2744 Mar 18 18:39 unix_sockets.c
+-rw-r--r--  1 nofamex nofamex 1080 Mar 18 18:39 unix_sockets.h
+-rw-r--r--  1 nofamex nofamex 2228 Mar 18 18:39 us_abstract_bind.c
+-rw-r--r--  1 nofamex nofamex 1778 Mar 18 18:39 us_xfr_cl.c
+-rw-r--r--  1 nofamex nofamex 1424 Mar 18 18:39 us_xfr.h
+-rw-r--r--  1 nofamex nofamex 2639 Mar 18 18:39 us_xfr_sv.c
+-rw-r--r--  1 nofamex nofamex 1553 Mar 18 18:39 us_xfr_v2_cl.c
+-rw-r--r--  1 nofamex nofamex  934 Mar 18 18:39 us_xfr_v2.h
+-rw-r--r--  1 nofamex nofamex 1835 Mar 18 18:39 us_xfr_v2_sv.c
+
+./svipc:
+total 20
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  249 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2380 Mar 18 18:39 svmsg_demo_server.c
+-rw-r--r--  1 nofamex nofamex 1656 Mar 18 18:39 t_ftok.c
+
+./svmsg:
+total 56
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  402 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1493 Mar 18 18:39 svmsg_chqbytes.c
+-rw-r--r--  1 nofamex nofamex 3091 Mar 18 18:39 svmsg_create.c
+-rw-r--r--  1 nofamex nofamex 3477 Mar 18 18:39 svmsg_file_client.c
+-rw-r--r--  1 nofamex nofamex 2254 Mar 18 18:39 svmsg_file.h
+-rw-r--r--  1 nofamex nofamex 4555 Mar 18 18:39 svmsg_file_server.c
+-rw-r--r--  1 nofamex nofamex 1423 Mar 18 18:39 svmsg_info.c
+-rw-r--r--  1 nofamex nofamex 1865 Mar 18 18:39 svmsg_ls.c
+-rw-r--r--  1 nofamex nofamex 3042 Mar 18 18:39 svmsg_receive.c
+-rw-r--r--  1 nofamex nofamex 1188 Mar 18 18:39 svmsg_rm.c
+-rw-r--r--  1 nofamex nofamex 2662 Mar 18 18:39 svmsg_send.c
+
+./svsem:
+total 72
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2167 Mar 18 18:39 binary_sems.c
+-rw-r--r--  1 nofamex nofamex 1326 Mar 18 18:39 binary_sems.h
+-rw-r--r--  1 nofamex nofamex 2162 Mar 18 18:39 event_flags.c
+-rw-r--r--  1 nofamex nofamex 1509 Mar 18 18:39 event_flags.h
+-rw-r--r--  1 nofamex nofamex  300 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1394 Mar 18 18:39 semun.h
+-rw-r--r--  1 nofamex nofamex 2167 Mar 18 18:39 svsem_bad_init.c
+-rw-r--r--  1 nofamex nofamex 3323 Mar 18 18:39 svsem_create.c
+-rw-r--r--  1 nofamex nofamex 2387 Mar 18 18:39 svsem_demo.c
+-rw-r--r--  1 nofamex nofamex 3741 Mar 18 18:39 svsem_good_init.c
+-rw-r--r--  1 nofamex nofamex 1448 Mar 18 18:39 svsem_info.c
+-rw-r--r--  1 nofamex nofamex 2241 Mar 18 18:39 svsem_mon.c
+-rw-r--r--  1 nofamex nofamex 4457 Mar 18 18:39 svsem_op.c
+-rw-r--r--  1 nofamex nofamex 1319 Mar 18 18:39 svsem_rm.c
+-rw-r--r--  1 nofamex nofamex 2183 Mar 18 18:39 svsem_setall.c
+
+./svshm:
+total 52
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  393 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2036 Mar 18 18:39 svshm_attach.c
+-rw-r--r--  1 nofamex nofamex 3407 Mar 18 18:39 svshm_create.c
+-rw-r--r--  1 nofamex nofamex 1562 Mar 18 18:39 svshm_info.c
+-rw-r--r--  1 nofamex nofamex 1156 Mar 18 18:39 svshm_lock.c
+-rw-r--r--  1 nofamex nofamex 2090 Mar 18 18:39 svshm_mon.c
+-rw-r--r--  1 nofamex nofamex 1222 Mar 18 18:39 svshm_rm.c
+-rw-r--r--  1 nofamex nofamex 1145 Mar 18 18:39 svshm_unlock.c
+-rw-r--r--  1 nofamex nofamex 1897 Mar 18 18:39 svshm_xfr.h
+-rw-r--r--  1 nofamex nofamex 2233 Mar 18 18:39 svshm_xfr_reader.c
+-rw-r--r--  1 nofamex nofamex 3563 Mar 18 18:39 svshm_xfr_writer.c
+
+./sysinfo:
+total 24
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  261 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1980 Mar 18 18:39 procfs_pidmax.c
+-rw-r--r--  1 nofamex nofamex 3771 Mar 18 18:39 procfs_user_exe.c
+-rw-r--r--  1 nofamex nofamex 1378 Mar 18 18:39 t_uname.c
+
+./syslim:
+total 20
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  245 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1624 Mar 18 18:39 t_fpathconf.c
+-rw-r--r--  1 nofamex nofamex 1720 Mar 18 18:39 t_sysconf.c
+
+./threads:
+total 96
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1664 Mar 18 18:39 detached_attrib.c
+-rw-r--r--  1 nofamex nofamex  909 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2725 Mar 18 18:39 one_time_init.c
+-rw-r--r--  1 nofamex nofamex 3302 Mar 18 18:39 prod_condvar.c
+-rw-r--r--  1 nofamex nofamex 2903 Mar 18 18:39 prod_no_condvar.c
+-rw-r--r--  1 nofamex nofamex 5824 Mar 18 18:39 pthread_barrier_demo.c
+-rw-r--r--  1 nofamex nofamex 1371 Mar 18 18:39 simple_thread.c
+-rw-r--r--  1 nofamex nofamex 1561 Mar 18 18:39 strerror.c
+-rw-r--r--  1 nofamex nofamex 1742 Mar 18 18:39 strerror_test.c
+-rw-r--r--  1 nofamex nofamex 1799 Mar 18 18:39 strerror_tls.c
+-rw-r--r--  1 nofamex nofamex 2786 Mar 18 18:39 strerror_tsd.c
+-rw-r--r--  1 nofamex nofamex 1800 Mar 18 18:39 thread_cancel.c
+-rw-r--r--  1 nofamex nofamex 3441 Mar 18 18:39 thread_cleanup.c
+-rw-r--r--  1 nofamex nofamex 2003 Mar 18 18:39 thread_incr.c
+-rw-r--r--  1 nofamex nofamex 2207 Mar 18 18:39 thread_incr_mutex.c
+-rw-r--r--  1 nofamex nofamex 2335 Mar 18 18:39 thread_incr_rwlock.c
+-rw-r--r--  1 nofamex nofamex 2313 Mar 18 18:39 thread_incr_spinlock.c
+-rw-r--r--  1 nofamex nofamex 4951 Mar 18 18:39 thread_lock_speed.c
+-rw-r--r--  1 nofamex nofamex 4963 Mar 18 18:39 thread_multijoin.c
+
+./time:
+total 36
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2915 Mar 18 18:39 calendar_time.c
+-rw-r--r--  1 nofamex nofamex 1509 Mar 18 18:39 curr_time.c
+-rw-r--r--  1 nofamex nofamex  908 Mar 18 18:39 curr_time.h
+-rw-r--r--  1 nofamex nofamex  454 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2383 Mar 18 18:39 process_time.c
+-rw-r--r--  1 nofamex nofamex 1751 Mar 18 18:39 show_time.c
+-rw-r--r--  1 nofamex nofamex 2087 Mar 18 18:39 strtime.c
+
+./timers:
+total 80
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2190 Mar 18 18:39 clock_times.c
+-rw-r--r--  1 nofamex nofamex 2620 Mar 18 18:39 cpu_burner.c
+-rw-r--r--  1 nofamex nofamex 3442 Mar 18 18:39 cpu_multi_burner.c
+-rw-r--r--  1 nofamex nofamex 4150 Mar 18 18:39 cpu_multithread_burner.c
+-rw-r--r--  1 nofamex nofamex 2777 Mar 18 18:39 demo_timerfd.c
+-rw-r--r--  1 nofamex nofamex 2032 Mar 18 18:39 itimerspec_from_str.c
+-rw-r--r--  1 nofamex nofamex  939 Mar 18 18:39 itimerspec_from_str.h
+-rw-r--r--  1 nofamex nofamex  814 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 2411 Mar 18 18:39 ptmr_null_evp.c
+-rw-r--r--  1 nofamex nofamex 3575 Mar 18 18:39 ptmr_sigev_signal.c
+-rw-r--r--  1 nofamex nofamex 4692 Mar 18 18:39 ptmr_sigev_thread.c
+-rw-r--r--  1 nofamex nofamex 4596 Mar 18 18:39 real_timer.c
+-rw-r--r--  1 nofamex nofamex 3414 Mar 18 18:39 t_clock_nanosleep.c
+-rw-r--r--  1 nofamex nofamex 2303 Mar 18 18:39 timed_read.c
+-rw-r--r--  1 nofamex nofamex 2392 Mar 18 18:39 t_nanosleep.c
+
+./tty:
+total 48
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 1630 Mar 18 18:39 demo_SIGWINCH.c
+-rw-r--r--  1 nofamex nofamex  261 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1923 Mar 18 18:39 new_intr.c
+-rw-r--r--  1 nofamex nofamex 1811 Mar 18 18:39 no_echo.c
+-rw-r--r--  1 nofamex nofamex 5715 Mar 18 18:39 test_tty_functions.c
+-rw-r--r--  1 nofamex nofamex 3141 Mar 18 18:39 tty_functions.c
+-rw-r--r--  1 nofamex nofamex  967 Mar 18 18:39 tty_functions.h
+-rw-r--r--  1 nofamex nofamex 4622 Mar 18 18:39 ttyname.c
+
+./users_groups:
+total 32
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3027 Mar 18 18:39 check_password.c
+-rw-r--r--  1 nofamex nofamex  378 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1085 Mar 18 18:39 t_getpwent.c
+-rw-r--r--  1 nofamex nofamex 1521 Mar 18 18:39 t_getpwnam_r.c
+-rw-r--r--  1 nofamex nofamex 2463 Mar 18 18:39 ugid_functions.c
+-rw-r--r--  1 nofamex nofamex 1014 Mar 18 18:39 ugid_functions.h
+
+./vdso:
+total 16
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 3945 Mar 18 18:39 gettimeofday.c
+-rw-r--r--  1 nofamex nofamex  458 Mar 18 18:39 Makefile
+
+./vmem:
+total 24
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex 2769 Mar 18 18:39 madvise_dontneed.c
+-rw-r--r--  1 nofamex nofamex  260 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 3298 Mar 18 18:39 memlock.c
+-rw-r--r--  1 nofamex nofamex 1909 Mar 18 18:39 t_mprotect.c
+
+./xattr:
+total 20
+drwxr-xr-x  2 nofamex nofamex 4096 Mar 18 18:39 .
+drwxr-xr-x 50 nofamex nofamex 4096 Mar 30 21:15 ..
+-rw-r--r--  1 nofamex nofamex  246 Mar 18 18:39 Makefile
+-rw-r--r--  1 nofamex nofamex 1394 Mar 18 18:39 t_setxattr.c
+-rw-r--r--  1 nofamex nofamex 2360 Mar 18 18:39 xattr_view.c
+wc -l WEEK04-TLPI.txt
+852 WEEK04-TLPI.txt
+===
+make clean
+===
+date
+Tue 30 Mar 2021 09:15:04 PM WIB
+===
+mv WEEK04-TLPI.txt ../../
