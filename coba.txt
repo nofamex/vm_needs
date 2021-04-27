@@ -1,0 +1,11 @@
+1) Buat berkas dengan nama "W05Q02-AKUN.txt".
+   Contoh untuk cbkadal: "W05Q02-cbkadal.txt".
+2) Isi berkas untuk cbkadal:
+   ZCZC W05 Q02 cbkadal
+3) Enkripsi (armor) asimetrik untuk penerima operatingsystems@vlsm.org
+   Nama berkas untuk cbkadal menjadi:
+   "W05Q02-cbkadal.txt.asc".
+4) login ke os211.vlsm.org atau gunakan akun anda atau akun "dummy" dengan "id_rsa" terlampir.
+5) Letakan berkas ke folder os211.vlsm.org:///home/AASHARE/W05/
+
+
